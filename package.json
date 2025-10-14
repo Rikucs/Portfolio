@@ -1,9 +1,9 @@
 {
-  "name": "3d-portfolio",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/3d-portfolio",
+  "homepage": "https://Rikucs.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
